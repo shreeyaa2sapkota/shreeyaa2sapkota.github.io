@@ -4,7 +4,7 @@ This is my home page! My name is Shreeya Sapkota and I am a student at [Cal Stat
 
 ## Computer Science Projects
 
-My GitHub page is [shreeyaa2sapkota]https://github.com/shreeyaa2sapkota.
+My GitHub page is [shreeyaa2sapkota](https://github.com/shreeyaa2sapkota).
 
 ### CPSC 120
 
